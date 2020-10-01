@@ -1,0 +1,5 @@
+﻿  logic2.2.cpp
+C:\Users\Owl\source\repos\logic2.2\logic2.2\logic2.2.cpp(249,14): warning C4778:  "fprintf": незавершенная строка форматирования "%\n"
+C:\Users\Owl\source\repos\logic2.2\logic2.2\logic2.2.cpp(279,15): warning C4778:  "fprintf": незавершенная строка форматирования "%\n"
+C:\Users\Owl\source\repos\logic2.2\logic2.2\logic2.2.cpp(220,9): warning C4101:  v: неиспользованная локальная переменная
+  logic2.2.vcxproj -> C:\Users\Owl\source\repos\logic2.2\Debug\logic2.2.exe
